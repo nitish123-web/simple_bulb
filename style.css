@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #bulb {
+    height: 360px;
+    width: 360px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-left: 450px;
+  }
+  
+  #btn {
+    height: 30px;
+    width: 100px;
+    padding: 10px 0;
+    margin-left: 580px;
+  
+  }
